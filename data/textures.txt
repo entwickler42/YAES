@@ -1,0 +1,3 @@
+.\textures\texture_1.bmp
+.\textures\texture_2.bmp
+.\textures\texture_3.bmp
